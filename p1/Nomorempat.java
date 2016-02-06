@@ -11,7 +11,7 @@ import java.text.DecimalFormat;
  * @author AO756
  */
 public class Nomorempat {
-    
+//tugas Alpro  
     public static int IsWithinRange(float X, float min, float max){
         int hasil;
         if (X>=min && X<=max){
