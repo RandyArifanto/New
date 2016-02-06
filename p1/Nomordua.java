@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author AO756
  */
 public class Nomordua {
-
+//tugas algoritma dan pemrograman ITB
     public static void main(String[] args) {
         int x,i,j;
         char c1,c2;
