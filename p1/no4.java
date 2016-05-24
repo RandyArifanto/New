@@ -44,7 +44,7 @@ int Nilai_Batas=-999;
 
 
     if (Jumlah_Data==0 && Nilai_IP==Nilai_Batas){
-	System.out.println("Tidak ada data");
+	System.out.println("Tidak ada data sama sekali");
     } else {
 
                 System.out.println(Jumlah_Data);
